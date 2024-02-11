@@ -10,17 +10,16 @@
 
 ------------
 
-<p style="text-align: left;">
-  A passionate fullstack MERN developer <br>
-  Visit my personal <a href="https://personal-web-two-eta.vercel.app/">website</a> <br>
-  I am open to job opportunities, and this is <a href="https://drive.google.com/file/d/1886-T-SVw5JwlD2ulGFNVs4M5iAB6akz/view?usp=sharing">my resume</a>
-</p>
+<div style="display: flex; align-items: center;">
+  <ul>
+    <li>A passionate fullstack MERN developer</li>
+    <li>Visit my personal <a href="https://personal-web-two-eta.vercel.app/">website</a></li>
+    <li>I am open to job opportunities, and this is <a href="https://drive.google.com/file/d/1886-T-SVw5JwlD2ulGFNVs4M5iAB6akz/view?usp=sharing">my resume</a></li>
+  </ul>
+  <img src="./image/programmer.gif" alt="Descripción del GIF" style="margin-left: 10px; width: 100px;">
+</div>
 
-<p style="text-align: right;">
-  <img src="./image/programmer.gif" style="width: 100px; margin-left: 10px;">
-</p>
-
-<img src="./image/coding.png" alt="Descripción de la imagen" width="50">
+<img src="./image/coding.png" alt="Descripción de la imagen" width="50"> 
 
 <!--
 **gonzavh17/gonzavh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
