@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+github+profile!;Fullstack+MERN+developer;Computer+Engineering+student" alt="Typing SVG">
 </p>
 
-### About Me
+## <img src="./image/programmer.png"  width="25"> About me
 
 ------------
 
