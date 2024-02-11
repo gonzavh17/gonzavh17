@@ -20,10 +20,7 @@
 
 ------------
 
-<p>
-  <img src="./image/coding.png" alt="Descripción de la imagen" width="50" style="float: left; margin-right: 10px;">
-  <h3>Tu texto aquí</h3>
-</p>
+<img src="./image/coding.png" alt="Descripción de la imagen" width="50"> ** Skills**
 
 
 <!--
