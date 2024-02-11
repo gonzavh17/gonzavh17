@@ -2,7 +2,9 @@
   Hello! My name is Gonzalo
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+github+profile!;Fullstack+MERN+developer;Computer+Engineering+student)
+<p align="center">
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+github+profile!;Fullstack+MERN+developer;Computer+Engineering+student)
+</p>
 <!--
 **gonzavh17/gonzavh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
