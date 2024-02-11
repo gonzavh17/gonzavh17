@@ -10,7 +10,7 @@
 
 ------------
 
-<div style="text-align: center;">
+<div align="center">
   <img src="./image/programmer.gif" alt="Descripción del GIF" style="margin-left: auto; margin-right: auto; width: 250px;">
 </div>
 
