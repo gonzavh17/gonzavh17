@@ -20,7 +20,7 @@
 
 ------------
 
-<img src="./image/coding.png" alt="Descripción de la imagen" width="50"> ** Skills**
+## <img src="./image/coding.png"  width="25"> Skills
 
 
 <!--
