@@ -20,10 +20,10 @@
 
 ------------
 
-<div style="display: flex; align-items: center;">
-  <img src="./image/coding.png" alt="Descripción de la imagen" width="50">
-  <h3 style="margin-left: 10px;">Skills</h3>
-</div>
+<p>
+  <img src="./image/coding.png" alt="Descripción de la imagen" width="50" style="float: left; margin-right: 10px;">
+  <h3>Tu texto aquí</h3>
+</p>
 
 
 <!--
