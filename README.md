@@ -10,14 +10,14 @@
 
 ------------
 
-<div style="display: flex; align-items: center;">
-  <ul>
-    <li>A passionate fullstack MERN developer</li>
-    <li>Visit my personal <a href="https://personal-web-two-eta.vercel.app/">website</a></li>
-    <li>I am open to job opportunities, and this is <a href="https://drive.google.com/file/d/1886-T-SVw5JwlD2ulGFNVs4M5iAB6akz/view?usp=sharing">my resume</a></li>
-  </ul>
-  <img src="./image/programmer.gif" alt="Descripción del GIF" style="margin-left: 10px; width: 100px;">
+<div style="text-align: center;">
+  <img src="./image/programmer.gif" alt="Descripción del GIF" style="margin-left: auto; margin-right: auto; width: 250px;">
 </div>
+
+- A passionate fullstack MERN developer
+- Visit my [personal website](https://personal-web-two-eta.vercel.app/)
+- I am oppen to job opportunities, and this is [my resume](https://drive.google.com/file/d/1886-T-SVw5JwlD2ulGFNVs4M5iAB6akz/view?usp=sharing)
+
 
 <img src="./image/coding.png" alt="Descripción de la imagen" width="50"> 
 
