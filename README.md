@@ -2,8 +2,8 @@
   Hello! My name is Gonzalo
 </p>
 
-<p align="center">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+github+profile!;Fullstack+MERN+developer;Computer+Engineering+student)
+<p style="text-align:center;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+github+profile!;Fullstack+MERN+developer;Computer+Engineering+student" alt="Typing SVG">
 </p>
 
 <!--
