@@ -18,8 +18,13 @@
 - Visit my [personal website](https://personal-web-two-eta.vercel.app/)
 - I am oppen to job opportunities, and this is [my resume](https://drive.google.com/file/d/1886-T-SVw5JwlD2ulGFNVs4M5iAB6akz/view?usp=sharing)
 
+------------
 
-<img src="./image/coding.png" alt="Descripción de la imagen" width="50"> 
+<div style="display: flex; align-items: center;">
+  <img src="./image/coding.png" alt="Descripción de la imagen" width="50">
+  <h3 style="margin-left: 10px;">Skills</h3>
+</div>
+
 
 <!--
 **gonzavh17/gonzavh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
