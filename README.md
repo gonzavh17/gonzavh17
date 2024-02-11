@@ -10,9 +10,12 @@
 
 ------------
 
-- A passionate fullstack MERN developer
+<div style="display: flex; align-items: center;">
+  <p>- A passionate fullstack MERN developer
 - Visit my personal [website](https://personal-web-two-eta.vercel.app/)
-- I am open to job opportunities, and this is [my resume](https://drive.google.com/file/d/1886-T-SVw5JwlD2ulGFNVs4M5iAB6akz/view?usp=sharing)
+- I am open to job opportunities, and this is [my resume](https://drive.google.com/file/d/1886-T-SVw5JwlD2ulGFNVs4M5iAB6akz/view?usp=sharing)</p>
+  ![](./image/programmer.gif)
+</div>
 
 <img src="./image/coding.png" alt="Descripción de la imagen" width="50">
 
