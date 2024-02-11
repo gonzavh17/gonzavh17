@@ -14,7 +14,7 @@
 - Visit my personal [website](https://personal-web-two-eta.vercel.app/)
 - I am open to job opportunities, and this is [my resume](https://drive.google.com/file/d/1886-T-SVw5JwlD2ulGFNVs4M5iAB6akz/view?usp=sharing)
 
-<img src="./image/coding.png" alt="Descripción de la imagen" width="100">
+<img src="./image/coding.png" alt="Descripción de la imagen" width="50">
 
 <!--
 **gonzavh17/gonzavh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
