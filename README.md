@@ -36,16 +36,14 @@ Back-end Development:
 
 Sowftware & tools:
 
+<img src="./image/2993773_git_social media_icon.png"  width="35"> <img src="./image/linux.png"  width="35">
+
 <div align="center">
   <img src="./image/programmer.gif" alt="Descripción del GIF" style="margin-left: auto; margin-right: auto; width: 350px;">
 </div>
 
-
-<img src="./image/2993773_git_social media_icon.png"  width="35"> <img src="./image/linux.png"  width="35">
-
 ## <img src="./image/github-icon.png"  width="35"> My stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzavh17&hide=contribs,prs) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzavh17&layout=compact)
 
 <div align="center">
