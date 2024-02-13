@@ -6,12 +6,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+github+profile!;Fullstack+MERN+developer;Computer+Engineering+student" alt="Typing SVG">
 </p>
 
-## <img src="./image/programmer.png"  width="25"> About me
+## <img src="./image/programmer.png"  width="35"> About me
 
 ------------
 
 <div align="center">
-  <img src="./image/programmer.gif" alt="Descripción del GIF" style="margin-left: auto; margin-right: auto; width: 250px;">
+  <img src="./image/programmer.gif" alt="Descripción del GIF" style="margin-left: auto; margin-right: auto; width: 350px;">
 </div>
 
 - A passionate fullstack MERN developer
@@ -20,20 +20,29 @@
 
 ------------
 
-## <img src="./image/coding.png"  width="25"> Skills
+## <img src="./image/coding.png"  width="35"> Skills
+
+<div align="center">
+  <img src="./image/code-coding.gif" alt="Descripción del GIF" style="margin-left: auto; margin-right: auto; width: 350px;">
+</div>
 
 Lenguages: 
 
-<img src="./image/js.png"  width="25"> <img src="./image/python.png"  width="25"> 
+<img src="./image/js.png"  width="35"> <img src="./image/python.png"  width="35"> 
 
 Front-end Development:
 
-<img src="./image/html-5.png"  width="25"> <img src="./image/css-3.png"  width="25"> <img src="./image/science.png"  width="25"> 
+<img src="./image/html-5.png"  width="35"> <img src="./image/css-3.png"  width="35"> <img src="./image/science.png"  width="35"> 
 
 Back-end Development:
 
-<img src="./image/1012822_code_development_logo_mongodb_programming_icon.png"  width="25"> <img src="./image/express-js.png"  width="25"> <img src="./image/node-js.png"  width="25"> 
+<img src="./image/1012822_code_development_logo_mongodb_programming_icon.png"  width="35"> <img src="./image/express-js.png"  width="35"> <img src="./image/node-js.png"  width="35"> 
 
 Sowftware & tools:
 
-<img src="./image/2993773_git_social media_icon.png"  width="25"> <img src="./image/linux.png"  width="25">
+<img src="./image/2993773_git_social media_icon.png"  width="35"> <img src="./image/linux.png"  width="35">
+
+## <img src="./image/github-icon.png"  width="35"> My stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzavh17&hide=contribs,prs) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzavh17&layout=compact)
