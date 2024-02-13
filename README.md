@@ -24,7 +24,8 @@
 
 Lenguages: 
 
-<img src="./image/js.png"  width="25"> 
+<img src="./image/js.png"  width="25"> <img src="./image/python.png"  width="25"> 
+
 
 
 <!--
