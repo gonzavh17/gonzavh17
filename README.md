@@ -51,5 +51,5 @@ Sowftware & tools:
 </div>
 
 <div align="center">
-  made with <3 by Gonza
+ with <3 by Gonza
 </div>
