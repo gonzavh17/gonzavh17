@@ -1,4 +1,4 @@
-![html-5](https://github.com/gonzavh17/gonzavh17/assets/104873901/210f0f48-c7a9-444a-820e-dda757fe363d)<h1 align="center">
+<h1 align="center">
   Hello! My name is Gonzalo
 </h1>
 
