@@ -22,6 +22,10 @@
 
 ## <img src="./image/coding.png"  width="25"> Skills
 
+Lenguages: 
+
+<img src="./image/js.png"  width="25"> 
+
 
 <!--
 **gonzavh17/gonzavh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
