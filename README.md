@@ -52,4 +52,6 @@ Sowftware & tools:
   <img src="./image/code-coding.gif" alt="Descripción del GIF" style="margin-left: auto; margin-right: auto; width: 350px;">
 </div>
 
-with <3 by Gonza
+<div align="center">
+  made with <3 by Gonza
+</div>
